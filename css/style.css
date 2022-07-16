@@ -112,6 +112,8 @@ iframe {
 
 .shadow {
   box-shadow: 0 3px 10px #333;
+  width: 300px;
+  
 }
 
 .milk_text {
@@ -262,6 +264,10 @@ section {
 section a {
   color: #555;
   text-decoration: underline;
+}
+
+section#sale.shadow  {
+  width: 960px;
 }
 
 /********** Details **********/
